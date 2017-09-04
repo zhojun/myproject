@@ -7,7 +7,8 @@ public class project_1 {
      //   System.out.println("Hello World!");
 
     //    System.out.print(Thread.currentThread().);
-        Thread.sleep(2233);
+        Thread.sleep(3333);
+        // 分支 222
 
     }
 

@@ -7,7 +7,7 @@ public class project_1 {
      //   System.out.println("Hello World!");
 
     //    System.out.print(Thread.currentThread().);
-        Thread.sleep(100000);
+        Thread.sleep(2323);
 
     }
 
